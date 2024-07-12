@@ -24,6 +24,7 @@
 		AA532B832C4129BD009473A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA532B862C4129BD009473A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA532B882C4129BD009473A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA532B8E2C413531009473A8 /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		AA532B6E2C4129BB009473A8 = {
 			isa = PBXGroup;
 			children = (
+				AA532B8E2C413531009473A8 /* Configuration.storekit */,
 				AA532B792C4129BB009473A8 /* InAppPurchases */,
 				AA532B782C4129BB009473A8 /* Products */,
 			);
